@@ -1,0 +1,14 @@
+# Datos Procesados (`data/processed/`)
+
+## Tipo de archivos
+Archivos `.csv` limpios y estructurados, o el archivo de la base de datos relacional `base_datos.db` (SQLite)[cite: 3].
+
+## Origen
+Se generan mediante la ejecución de los scripts de limpieza y transformación ubicados en `src/` o `notebooks/` sobre los datos de `data/raw/`[cite: 1, 3].
+
+## Función
+Servir como la fuente limpia y estructurada para ejecutar las consultas SQL y calcular las variables derivadas (retornos, variación de volumen y puntajes de sentimiento)[cite: 1, 2, 3].
+
+## Estado
+- **Actual:** Carpeta lista para recibir canalizaciones de procesamiento[cite: 1, 3].
+- **Pendiente:** Generación del esquema de base de datos SQLite y tablas procesadas (fase de la Entrega 2)[cite: 3].
