@@ -1,1 +1,14 @@
+## Tipo de archivos
+Archivos de script ejecutable en Python (`.py`)[cite: 1, 3].
 
+## Origen
+Desarrollados por los integrantes del equipo siguiendo buenas prácticas de programación modular[cite: 1, 2, 3].
+
+## Función
+- `extract.py`: Script para conectarse a las API y descargar los datos[cite: 1, 2, 3].
+- `transform.py`: Funciones para limpiar datos, calcular el volumen promedio móvil (SMA 20) y procesar texto[cite: 1, 2, 3].
+- `signals.py`: Lógica del algoritmo que evalúa las condiciones de confluencia y emite la recomendación de observación[cite: 1, 2].
+
+## Estado
+- **Actual:** Carpeta vacía de código ejecutable, pero con su README.md formalizado[cite: 1, 3].
+- **Pendiente:** Implementación modular de los scripts en Python para las Entregas 2 y 3[cite: 3].
