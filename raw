@@ -1,1 +1,13 @@
+## Tipo de archivos
+Archivos con formato `.csv`, `.json` o descargas directas sin modificar[cite: 1, 2, 3].
 
+## Origen y Fuentes
+1. **Histórico de Mercado:** Precios (apertura, cierre, máximos, mínimos) y volumen diario extraídos desde Yahoo Finance (`yfinance`)[cite: 1, 2, 3].
+2. **Textos de Noticias:** Archivos JSON/CSV con titulares, fechas y resúmenes de noticias extraídos desde NewsAPI para las 5 empresas seleccionadas[cite: 1, 2, 3].
+
+## Función
+Guardar una copia inmutable de los datos originales para permitir la reproducibilidad y auditoría del sistema si se requieren rehacer las transformaciones.
+
+## Estado
+- **Actual:** Sin archivos definitivos cargados para esta primera entrega[cite: 1, 3].
+- **Pendiente:** Descarga e incorporación del conjunto histórico completo para el periodo de estudio definido[cite: 1, 2, 3].
