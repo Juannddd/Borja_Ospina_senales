@@ -1,15 +1,14 @@
 ## Tipo de archivos
-Imágenes de gráficos (`.png`, `.jpg`), documentos formateados, reportes o archivos exportados (`.csv`, `.pdf`)[cite: 1, 2, 3].
-
+Imágenes de gráficos, documentos, reportes o archivos exportados.
 ## Origen
-Producidos automáticamente por la ejecución de la lógica del sistema o exportados desde los cuadernos de análisis[cite: 1, 3].
+Producidos automáticamente por la ejecución de la lógica del sistema o exportados desde los cuadernos de análisis.
 
 ## Función
 Almacenar las evidencias visuales y cuantitativas del desempeño del sistema:
-- Gráficos de series temporales de precio y volumen[cite: 1, 2, 3].
-- Histogramas del comportamiento del retorno en días con señal activa vs. días normales[cite: 1, 2].
-- Registros formateados de las **Recomendaciones de Observación** emitidas por el modelo[cite: 1, 2].
+- Gráficos de series temporales de precio y volumen.
+- Histogramas del comportamiento del retorno en días con señal activa vs. días normales[c.
+- Recomendaciones de Observación emitidas por el modelo.
 
 ## Estado
-- **Actual:** Preparado para recibir salidas en fases posteriores[cite: 1, 3].
-- **Pendiente:** Exportación de gráficos e informes finales de validación (Entregas 2 y 3)[cite: 1, 3, 3].
+- **Actual:** Preparado para recibir salidas en fases posteriores.
+- **Pendiente:** Exportación de gráficos e informes finales de validación.
