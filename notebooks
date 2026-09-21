@@ -1,14 +1,14 @@
 ## Tipo de archivos
-Archivos de cuaderno Jupyter Notebook / Google Colab (`.ipynb`)[cite: 1, 3].
+Archivos de cuaderno Google Colab.
 
 ## Origen
-Creados por el equipo de desarrollo para la ejecución interactiva de código Python[cite: 1, 2, 3].
+Creados por el equipo de desarrollo para la ejecución interactiva de código Python.
 
 ## Función
-- **EDA (Análisis Exploratorio de Datos):** Inspeccionar distribuciones de volumen y validar comportamientos históricos[cite: 3].
-- **Pruebas de concepto:** Prototipar los algoritmos de análisis de sentimiento NLP y el cálculo de la regla de activación ($Vol\_Ratio \ge 1.02$)[cite: 1, 2].
-- **Demostración:** Permitir la revisión ejecutable de principio a fin para los docentes[cite: 3].
+- **Análisis Exploratorio de Datos:** Inspeccionar distribuciones de volumen y validar comportamientos históricos.
+- **Pruebas de concepto:** Prototipar los algoritmos de análisis de sentimiento NLP y el cálculo de la regla de activación.
+- **Demostración:** Permitir la revisión ejecutable de principio a fin para los docentes.
 
 ## Estado
-- **Actual:** Estructura inicial creada[cite: 1, 3].
-- **Pendiente:** Creación de los cuadernos `01_exploracion.ipynb` y `02_modelo_señal.ipynb`[cite: 1, 3].
+- **Actual:** Estructura inicial creada.
+- **Pendiente:** Creación de los cuadernos.
