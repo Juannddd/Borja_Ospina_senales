@@ -2,7 +2,7 @@
 Esta carpeta contiene los subdirectorios para almacenar los archivos de datos en sus distintos estados de procesamiento (`raw/` y `processed/`).
 
 ## Origen y Función
-Garantiza el flujo de datos ordenado[cite: 3], permitiendo conservar la trazabilidad desde las descargas crudas hasta la limpieza previa a su carga en la base de datos relacional SQLite[cite: 3].
+Garantiza el flujo de datos ordenado, permitiendo conservar la trazabilidad desde las descargas crudas hasta la limpieza previa a su carga en la base de datos.
 
 ## Estado
 - **Actual:** Estructura de carpetas definida con archivos README.md explicativos.
